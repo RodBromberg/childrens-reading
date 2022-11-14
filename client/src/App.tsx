@@ -42,12 +42,12 @@ function Quiz(){
   
 
   const currentLevel: string = levels[levelIndex]
-  // * fix
+  // * fixf
   const word : any = words
 
   
   const curr: object = word[0]
-  
+  // 
 
   return (
     <div className="quiz">
