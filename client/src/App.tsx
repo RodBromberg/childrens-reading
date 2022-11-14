@@ -47,7 +47,7 @@ function Quiz(){
 
   
   const curr: object = word[0]
-  // 
+  // fd
 
   return (
     <div className="quiz">
